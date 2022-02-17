@@ -12,6 +12,7 @@ body {
 header {
     padding-bottom: 144px;
 }
+
 a {
     color: black;
     text-decoration: none;
@@ -42,12 +43,13 @@ h2 {
     line-height: 79px;
     padding-top: 70px;
 }
+
 p {
     margin-top: 60px;
     color: #727272;
 }
 
-button{
+button {
     width: 228px;
     height: 62px;
     margin-left: 418px;
@@ -59,7 +61,7 @@ button{
     box-shadow: 30px 30px 25px 1px rgba(80, 34, 54, 0.27);
     border: none;
 }
-.white-font{
+.white-font {
     color: white;
 }
 
@@ -73,6 +75,7 @@ button{
     background-color: hsl(3, 78%, 18%);
     width: 100%;
 }
+
 .card {
     display: inline-block;
     padding-left: 70px;
